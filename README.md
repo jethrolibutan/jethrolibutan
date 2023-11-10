@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jethrolibutan
 - 👀 I’m interested in Software and Web Development...
 - 🌱 I’m currently learning React and React Native...
-- 💞️ I’m looking to collaborate on any projects!
+- 💞️ I’m looking for an internship for this upcoming Summer (2024).
 
 
 <!---
