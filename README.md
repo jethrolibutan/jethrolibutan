@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jethrolibutan
-- 👀 I’m interested in Software Engineer, DevOps Engineering, and Full-Stack Development...
+- 👀 I’m interested in Software Engineering, DevOps Engineering, and Full-Stack Development...
 - 🌱 I’m currently learning Next, React Native, Android Studio (Java), and Azure DevOps
 
 
